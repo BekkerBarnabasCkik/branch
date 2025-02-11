@@ -1,4 +1,12 @@
 egy sor
 
+<<<<<<< HEAD
 harmadik sor
 hatodik sor
+=======
+
+
+ötödik sor
+
+hetedik sor
+>>>>>>> bugfix
